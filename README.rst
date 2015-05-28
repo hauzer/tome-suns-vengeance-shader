@@ -1,5 +1,3 @@
-This is an addon for the tactical roguelike RPG, `Tales of Maj'Eyal <http://te4.org/>`_.
-
 Description
 -----------
 
