@@ -1,4 +1,4 @@
-class:bindHook('ToME:birthDone', function(self, data)
+class:bindHook('ToME:birthDone', function(self)
     if not game.addons then
         game.addons = {}
     end
